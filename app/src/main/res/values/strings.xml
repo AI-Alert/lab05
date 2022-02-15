@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="btn_text">My Firstname"</string>
+    <string name="imgbtn_text">My Lastname"</string>
+</resources>
